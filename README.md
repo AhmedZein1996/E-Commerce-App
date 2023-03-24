@@ -1,7 +1,7 @@
 # E-Commerce App  
 
-we show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter, build a Sign in, Forgot Password screen with a custom error indicator. Sign Up and OTP screen.
-
+This app shows how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter, and make a Sign in, Forgot Password screen with a custom error indicator. Sign Up and OTP screen. provider for state management,sqflite to store user profile photo in local storage use HTTP to fetch remote data.
+ 
 **Packages :**
 
 - flutter_svg:
