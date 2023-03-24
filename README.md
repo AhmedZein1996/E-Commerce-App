@@ -1,4 +1,4 @@
-# E-Commerce Complate App - Flutter UI 
+# E-Commerce App  
 
 we show you how you can create a nice clean onboarding screen for your e-commerce app that can run both Andriod and iOS devices because it builds with flutter, build a Sign in, Forgot Password screen with a custom error indicator. Sign Up and OTP screen.
 
@@ -13,7 +13,7 @@ we show you how you can create a nice clean onboarding screen for your e-commerc
 - path:         
 - sqflite:      
 
-### Video Preview of Final UI
+### Video Preview of E-Commerce App
 
 ![Preview](/ecommerce_app.mp4)
 
