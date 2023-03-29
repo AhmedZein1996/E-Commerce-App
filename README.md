@@ -43,3 +43,6 @@ This app shows how you can create a nice clean onboarding screen for your e-comm
 
 => Bottom Navigation Bar 
 
+## Photos
+![Preview](/Design.png)
+
